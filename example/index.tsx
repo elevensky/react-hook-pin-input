@@ -6,7 +6,7 @@ import CodeInput from '../.';
 const App = () => {
   return (
     <div>
-      <CodeInput />
+      <CodeInput onChange={values => console.log(values)} />
     </div>
   );
 };
