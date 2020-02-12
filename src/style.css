@@ -1,3 +1,19 @@
-.test {
-  color: red;
+.react-code-input > input {
+  border: solid 1px #a8adb7;
+  font-size: 20px;
+  color: #525461;
+  text-align: center;
+  box-sizing: border-box;
+  -webkit-appearance: initial;
+  margin-right: 20px;
+}
+
+.react-code-input > input:last-child {
+  margin-right: 0;
+}
+
+.react-code-input > input:focus {
+  outline: none;
+  border: 1px solid #006fff;
+  caret-color: #006fff;
 }
