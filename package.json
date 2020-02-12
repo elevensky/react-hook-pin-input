@@ -14,7 +14,7 @@
     "prepare": "tsdx build"
   },
   "peerDependencies": {
-    "react": ">=16"
+    "react": ">=16.8"
   },
   "husky": {
     "hooks": {
@@ -27,7 +27,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-pin-input-hooks",
+  "name": "react-hook-pin-input",
   "author": "elevensky",
   "module": "dist/react-pin-input-hooks.esm.js",
   "devDependencies": {
