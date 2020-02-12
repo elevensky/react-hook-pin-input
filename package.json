@@ -1,5 +1,19 @@
 {
-  "version": "0.1.0",
+  "name": "react-hook-pin-input",
+  "version": "0.1.1",
+  "author": "elevensky",
+  "module": "dist/react-hook-pin-input.esm.js",
+  "repository": "https://github.com/elevensky/react-hook-pin-input",
+  "keywords": [
+    "react",
+    "typescript",
+    "code",
+    "input",
+    "pin"
+  ],
+  "bugs": {
+    "url": "https://github.com/elevensky/react-hook-pin-input/issues"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -27,9 +41,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-hook-pin-input",
-  "author": "elevensky",
-  "module": "dist/react-hook-pin-input.esm.js",
   "devDependencies": {
     "@types/jest": "^25.1.2",
     "@types/react": "^16.9.19",
