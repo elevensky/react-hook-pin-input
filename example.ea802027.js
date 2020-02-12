@@ -270,4 +270,4 @@ var r=require("../../es/array/from");module.exports=r;
 },{"react":"n8MK"}],"zo2T":[function(require,module,exports) {
 "use strict";var e=this&&this.__importStar||function(e){if(e&&e.__esModule)return e;var r={};if(null!=e)for(var t in e)Object.hasOwnProperty.call(e,t)&&(r[t]=e[t]);return r.default=e,r},r=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(exports,"__esModule",{value:!0}),require("react-app-polyfill/ie11");var t=e(require("react")),n=e(require("react-dom")),u=r(require("../.")),l=function(){return t.createElement("div",null,t.createElement(u.default,{onChange:function(e){return console.log(e)}}))};n.render(t.createElement(l,null),document.getElementById("root"));
 },{"react-app-polyfill/ie11":"lczo","react":"n8MK","react-dom":"wLSN","../.":"MgYR"}]},{},["zo2T"], null)
-//# sourceMappingURL=/example.ea802027.js.map
+//# sourceMappingURL=react-hook-pin-input/example.ea802027.js.map
