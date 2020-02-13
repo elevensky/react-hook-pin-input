@@ -4,7 +4,7 @@
 
 ## Live demo
 
-- [Demo](https://elevensky.github.io/react-hook-pin-input/)
+- [Demo](https://codesandbox.io/s/youthful-satoshi-yycii)
 
 ## Install
 
