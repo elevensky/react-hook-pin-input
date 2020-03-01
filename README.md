@@ -2,6 +2,9 @@
 
 > 🎉A pin code input
 
+![NPM](https://img.shields.io/npm/l/react-hook-pin-input)
+![npm](https://img.shields.io/npm/v/react-hook-pin-input)
+
 ## Live demo
 
 - [Demo](https://codesandbox.io/s/youthful-satoshi-yycii)
